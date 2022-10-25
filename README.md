@@ -1,1 +1,1 @@
-# sql-db
+Set up sql server in GCP
